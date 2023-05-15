@@ -30,5 +30,5 @@ def square(c):
     return c * c
 
 
-results = square(add(2, 4))
+results = square(add(2, 3))
 print(results)

@@ -1,6 +1,6 @@
 marks = int(input("Enter your marks"))
 
-if marks ==90:
+if marks == 90:
     print("Grade is A")
 elif marks >= 78:
     print("Grade is B")

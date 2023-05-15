@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38057ce9-d643-4c02-85d6-72f72632d8fd" name="Changes" comment="i just do it">
-      <change afterPath="$PROJECT_DIR$/../practice/dictionary_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/functional_prog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/lambass_f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/list_slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/map_f.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/numeric_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/string_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/string_fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/tuple_f.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="38057ce9-d643-4c02-85d6-72f72632d8fd" name="Changes" comment="i just do it" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684153768552</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="i just do it">
+      <created>1684173060896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684173060896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
